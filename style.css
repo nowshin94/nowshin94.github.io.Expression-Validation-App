@@ -1,12 +1,26 @@
 .head3 {
-  background-color: burlywood;
-  color: rgb(88, 22, 22);
+  background-color: rgb(156, 155, 155);
+  color: navy;
   text-align: center;
 }
 
 h5 {
-  color: chocolate;
+  color: blue;
   font-style: italic;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: 30%;
+}
+
+#footer {
+  position: relative;
+  bottom: 0px;
+  background-color: rgb(100, 100, 240);
+  width: 100%;
+  color: white;
+  text-align: center;
 }
