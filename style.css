@@ -1,0 +1,12 @@
+.head3 {
+  background-color: burlywood;
+  color: rgb(88, 22, 22);
+  text-align: center;
+}
+
+h5 {
+  color: chocolate;
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
