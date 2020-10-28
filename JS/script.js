@@ -6,6 +6,7 @@ function checkRE() {
     document.querySelector('.result').style.color = 'black';
   } else {
     let element = window.event.target.parentElement.childNodes[1].innerHTML;
+    console.log(element);
 
     let re1 = /^([a-zA-Z0-9]\.?)+[^\.]@([a-zA-Z0-9]\.?)+[^\.]$/;
     let re2 = /^(\+)?(88)?01([0-9]){9}$/;
